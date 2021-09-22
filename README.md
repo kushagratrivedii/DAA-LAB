@@ -1,3 +1,2 @@
 # DAA-LAB
-Repsitory for the Design and analysis of algorithms practical
-# week0
+Repsitory for the Design and analysis of algorithms practicals
